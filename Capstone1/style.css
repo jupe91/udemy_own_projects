@@ -1,0 +1,30 @@
+img {
+    max-width: 100%; 
+    height: auto;
+    border-radius: 100%; 
+}
+
+.footer-link {
+    color: #999;; 
+    text-decoration: none;
+  }
+  
+.footer-link:hover {
+    color: darkgray;
+}
+
+.copyright-text {
+    color: #999;
+}
+
+.resume-link {
+    color: #999;
+}
+
+.jumbotron-sm {
+    padding: 1rem;
+}
+
+.resume-link:hover {
+    color: darkgray;
+}
